@@ -29,5 +29,5 @@
 - [View on Google Play](https://play.google.com/store/apps/details?id=ytodorov.wifi.wifilocator)
 
 ## Feed the sheep
-- [Privacy Policy]()
+- [Privacy Policy](https://theyoungestbrother.github.io/sheep)
 - [View on Google Play](https://play.google.com/store/apps/details?id=ytodorov.games.sheep)
