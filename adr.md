@@ -16,26 +16,13 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
     The app does use third party services that may collect information used to identify you.
 
-        Link to privacy policy of third party service providers used by the app
-  
-        <li>
-            <a href="https://www.google.com/policies/privacy/" target="_blank">Google Play Services</a>
-        </li>
-
-        <li>
-            <a href="https://support.google.com/admob/answer/6128543?hl=en" target="_blank">AdMob</a>
-        </li>
-
-        <li>
-            <a href="https://www.facebook.com/about/privacy" target="_blank">Facebook</a>
-        </li>
-
-        <li>
-            <a href="http://try.crashlytics.com/terms/privacy-policy.pdf" target="_blank">Crashlytics</a>
-        </li>
-    
-
-
+        Link to privacy policy of third party service providers used by the app  
+        
+         - [Google Play Services] (https://www.google.com/policies/privacy/)            
+         - [AdMob] (https://support.google.com/admob/answer/6128543?hl=en)      
+         - [Facebook] (https://www.facebook.com/about/privacy)       
+         - [Crashlytics] (http://try.crashlytics.com/terms/privacy-policy.pdf)
+      
 ## Log Data
 
     I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data
