@@ -1,19 +1,19 @@
 # Android Apps
 
 ## Матура БЕЛ
-- [Privacy Policy]()
+- [Privacy Policy](https://theyoungestbrother.github.io/matura-bel)
 - [View on Google Play](https://play.google.com/store/apps/details?id=info.bgexams.abitur.bul)
 
 ## Матура БИО
-- [Privacy Policy]()
+- [Privacy Policy](https://theyoungestbrother.github.io/matura-bio)
 - [View on Google Play](https://play.google.com/store/apps/details?id=info.bgexams.abitur.bio)
 
 ## Матура ГЕО
-- [Privacy Policy]()
+- [Privacy Policy](https://theyoungestbrother.github.io/matura-geo)
 - [View on Google Play](https://play.google.com/store/apps/details?id=info.bgexams.abitur.geo)
 
 ## Матура ФИЛ
-- [Privacy Policy]()
+- [Privacy Policy](https://theyoungestbrother.github.io/matura-phil)
 - [View on Google Play](https://play.google.com/store/apps/details?id=info.bgexams.abitur.phil)
 
 ## ADR Dangerous goods
@@ -25,7 +25,7 @@
 - [View on Google Play](https://play.google.com/store/apps/details?id=info.bgexams.adr)
 
 ## WiFi Locator
-- [Privacy Policy]()
+- [Privacy Policy](https://theyoungestbrother.github.io/wifi-locator)
 - [View on Google Play](https://play.google.com/store/apps/details?id=ytodorov.wifi.wifilocator)
 
 ## Feed the sheep
