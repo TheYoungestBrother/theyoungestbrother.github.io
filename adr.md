@@ -221,8 +221,5 @@
 
 <p>
     If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at <strong><em>ytodorov69@gmail.com</em></strong>
-</p></div></div>
-        
-        </div>
-        </section>
-</div>
+</p>
+       
