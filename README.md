@@ -21,7 +21,7 @@
 - [View on Google Play](https://play.google.com/store/apps/details?id=info.adr.dangerousgoods)
 
 ## ADR - ДОПОГ
-- [Privacy Policy]()
+- [Privacy Policy](https://theyoungestbrother.github.io/adr)
 - [View on Google Play](https://play.google.com/store/apps/details?id=info.bgexams.adr)
 
 ## WiFi Locator
