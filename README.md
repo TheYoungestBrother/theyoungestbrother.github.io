@@ -17,7 +17,7 @@
 - [View on Google Play](https://play.google.com/store/apps/details?id=info.bgexams.abitur.phil)
 
 ## ADR Dangerous goods
-- [Privacy Policy]()
+- [Privacy Policy](https://theyoungestbrother.github.io/adrdg)
 - [View on Google Play](https://play.google.com/store/apps/details?id=info.adr.dangerousgoods)
 
 ## ADR - ДОПОГ
