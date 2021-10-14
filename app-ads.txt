@@ -1,5 +1,6 @@
 google.com, pub-8590426008767901, DIRECT, f08c47fec0942fa0
 rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
 media.net, 8CU5TF5D6, DIRECT
+facebook.com, 538796569946303, DIRECT, c3e20eee3f780d68
 
 
