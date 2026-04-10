@@ -1,20 +1,20 @@
 # Android Apps
 
 ## Матура БЕЛ
-- [Privacy Policy](https://theyoungestbrother.github.io/matura-bel)
-- [View on Google Play](https://play.google.com/store/apps/details?id=info.bgexams.abitur.bul)
+- [Политика за поверителност](https://theyoungestbrother.github.io/matura-bel)
+- [Виж в Google Play](https://play.google.com/store/apps/details?id=info.bgexams.abitur.bul)
 
 ## Матура БИО
-- [Privacy Policy](https://theyoungestbrother.github.io/matura-bio)
-- [View on Google Play](https://play.google.com/store/apps/details?id=info.bgexams.abitur.bio)
+- [Политика за поверителност](https://theyoungestbrother.github.io/matura-bio)
+- [Виж в Google Play](https://play.google.com/store/apps/details?id=info.bgexams.abitur.bio)
 
 ## Матура ГЕО
-- [Privacy Policy](https://theyoungestbrother.github.io/matura-geo)
-- [View on Google Play](https://play.google.com/store/apps/details?id=info.bgexams.abitur.geo)
+- [Политика за поверителност](https://theyoungestbrother.github.io/matura-geo)
+- [Виж в Google Play](https://play.google.com/store/apps/details?id=info.bgexams.abitur.geo)
 
 ## Матура ФИЛ
-- [Privacy Policy](https://theyoungestbrother.github.io/matura-phil)
-- [View on Google Play](https://play.google.com/store/apps/details?id=info.bgexams.abitur.phil)
+- [Политика за поверителност](https://theyoungestbrother.github.io/matura-phil)
+- [Виж в Google Play](https://play.google.com/store/apps/details?id=info.bgexams.abitur.phil)
 
 ## ADR Dangerous goods
 - [Privacy Policy](https://theyoungestbrother.github.io/adrdg)
